@@ -1,0 +1,19 @@
+{
+  "name": "ahj-proof-index",
+  "version": "1.0.0",
+  "description": "https://github.com/B-Mikhail-V/ahj-proof-index /actions/workflows/web.yml/badge.svg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B-Mikhail-V/ahj-proof-index.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B-Mikhail-V/ahj-proof-index/issues"
+  },
+  "homepage": "https://github.com/B-Mikhail-V/ahj-proof-index#readme"
+}
