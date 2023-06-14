@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "start": "webpack serve",
-    "build": "webpack",
+    "build": "webpack production",
     "lint": "eslint --fix",
     "show:coverage": "live-server coverage/lcov-report",
     "preshow:dist": "npm run build",
