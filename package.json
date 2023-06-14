@@ -42,8 +42,5 @@
     "webpack-dev-server": "^4.11.1",
     "webpack-merge": "^5.8.0"
   }
-  "bugs": {
-    "url": "https://github.com/B-Mikhail-V/ahj-proof-index/issues"
-  },
-  "homepage": "https://github.com/B-Mikhail-V/ahj-proof-index#readme"
+
 }
