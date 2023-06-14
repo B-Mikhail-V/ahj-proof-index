@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: https://github.com/B-Mikhail-V/ahj-proof-index/deployments/activity_log?environment=github-pages
 
     strategy:
       matrix:
