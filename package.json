@@ -2,7 +2,7 @@
   "name": "ahj-proof-index",
   "version": "1.0.0",
   "description": "https://github.com/B-Mikhail-V/ahj-proof-index /actions/workflows/web.yml/badge.svg",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "start": "webpack serve --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",
